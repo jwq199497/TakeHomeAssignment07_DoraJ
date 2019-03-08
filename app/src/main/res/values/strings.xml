@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TakeHomeAssignment07_DoraJ</string>
+    <string name="title">Animal Facts Surprise You</string>
+    <string name="true_button">true</string>
+    <string name="false_button">false</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="judgment_toast">Cheating is WRONG!</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="question_birdMother">If you touch a baby bird its mother will reject it.</string>
+    <string name="question_goats">Goats have rectangular pupils.</string>
+    <string name="question_camels">Camels store water in their humps.</string>
+    <string name="question_flies">Houseflies only live for around 24 hours.</string>
+    <string name="question_octopus">An Octopus has 5 hearts.</string>
+    <string name="question_toad">Touching a toad can give you warts.</string>
+</resources>
